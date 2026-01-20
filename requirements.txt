@@ -1,0 +1,4 @@
+gradio
+pyaudio
+google-cloud-aiplatform
+google-generativeai
